@@ -1,29 +1,23 @@
-
-header{
-    background-color: black;
+.search-img{
+    display:none;
 }
 
-.navbar-L{background-color:rgb(247, 7, 7)!important;}
-.mynavbar{width: 324px!important;}
-.navbar-M{background-color:rgb(241, 237, 8)!important; text-align: center;}
-.navbar-R{background-color:rgb(8, 250, 198)!important;}
-.navbar-M img {
+.navbar-M{
 
-    width: 60px;
-    height: 50px;
-}
-
-.main-ul li{
-    display: inline-block;
+    width: 90px!important;
 }
 
 
-.col-5{
-/* background-color:green; */
-text-align:center;
+.navbar-R{
 
+    width: 470px!important;
 }
-.col-2{
-    /* background-color: yellow; */
-    
+
+.navbar-M img{
+
+    width:60px ;
+    height:50px ;
+}
+.header{
+    background-color: rgb(217, 213, 220)!important;
 }
