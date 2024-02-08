@@ -1,23 +1,51 @@
-.search-img{
-    display:none;
-}
-
-.navbar-M{
-
-    width: 90px!important;
-}
-
-
-.navbar-R{
-
-    width: 470px!important;
-}
-
-.navbar-M img{
-
-    width:60px ;
-    height:50px ;
-}
 .header{
-    background-color: rgb(217, 213, 220)!important;
+    background-color: black!important;
+    height: 86px!important;
+    padding-top: 10px!important;
+    color: white!important;
+   
+    
 }
+
+.nasanav{
+background-color:black ;
+width: 10%!important;
+margin-left: 47%!important;
+position: absolute;
+margin-top: 10px;
+
+}
+.dropdown-menu, .nav-link{
+    background-color: black!important;
+
+}
+.live-btn{
+    height: 25px!important;
+    padding-top: 0px!important;
+   
+}
+
+
+
+}
+.dropdown-menu{
+    background-color: black!important;
+
+}
+.dropdown-item, .nav-link{
+    color:rgb(220, 216, 216)!important;
+    
+}
+
+.dropdown-item{
+    border-bottom: 1px dashed red!important;}
+
+    .form-control{
+        
+        border:1px solid rgb(139, 139, 139)!important;
+       
+        /* color:1px solid rgb(139, 139, 139)!important ; */
+
+
+    }
+  

@@ -1,25 +1,42 @@
+@media only screen and (max-width:991px) {
+    .nasanav{
+        position:relative!important;
+        margin-top:  -13px!important;
+        margin-left: auto!important ;
+        margin-right: auto!important ;
+    }
+    .tog-btn{
+        margin-top: -50px!important;
+        margin-bottom: 20px!important;
+        background-color: rgb(139, 139, 139);
+    }
+    .live-btn{
+        height: 25px!important;
+        padding-top: 0px!important;
+       
+    }
+    
 
-
-
-
-/* `sm` applies to x-small devices (portrait phones, less than 576px) */
-@media only screen and (max-width: 575.98px) { .search-img{
-    display:block;
-} }
-
-/* `md` applies to small devices (landscape phones, less than 768px) */
-@media only screen and (max-width: 767.98px) { ... }
-
-/* `lg` applies to medium devices (tablets, less than 992px) */
-@media only screen and (max-width: 991.98px) { .navbar-R{display: block !important;} }
-
-/* `xl` applies to large devices (desktops, less than 1200px) */
-@media  only screen and (max-width: 1199.98px) { ... }
-
-/* `xxl` applies to x-large devices (large desktops, less than 1400px) */
-@media only screen and (max-width: 1399.98px) { 
+    .dropdown-menu, .nav-link{
+        background-color: black!important;
+    
+    }
 
     .nav-link{
-        font-size: small!important;
+        border-radius: 5px!important;
+        padding-left: 10px!important;
     }
- }
+    .dropdown-item, .nav-link{
+        color:rgb(220, 216, 216)!important;
+        
+    }
+    
+    .dropdown-item{
+        border-bottom: 1px dashed red!important;}
+    
+        .form-control{
+            margin-top: 5px!important;
+            background-color: rgb(139, 139, 139);
+    
+    
+}
