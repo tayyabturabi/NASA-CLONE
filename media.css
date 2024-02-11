@@ -52,9 +52,12 @@
                 margin-top:5px;
                 color: #ffffff;
                 line-height: .75;
+                padding-top: 30px;
                 
-        
-        
+            }
+
+            .card-A{
+                margin-top: 20px;
             }
            
     
