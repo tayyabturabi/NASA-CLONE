@@ -1,3 +1,17 @@
+@font-face {
+    font-family: public sans-b;
+    src: url(/fonts/PublicSans-Bold.woff2);
+  }
+  @font-face {
+    font-family: public sans-r;
+    src: url(fonts/PublicSans-Regular.woff2);
+  }
+  @font-face {
+    font-family: dm-mono;
+    src: url(fonts/dm-mono.woff2);}
+
+
+
 .header{
     background-color: black!important;
     height: 86px!important;
@@ -27,7 +41,7 @@ margin-top: 10px;
 
 
 
-}
+
 .dropdown-menu{
     background-color: black!important;
 
@@ -48,4 +62,65 @@ margin-top: 10px;
 
 
     }
+    .theme-slider{
+        background-image: url(images/nasa-imges36.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 0px!important;
+        height: 600px;
+        width: 100%;
+        
+        
+    }
+    .theme-div{
+        background: linear-gradient(65.99deg, #000 0, transparent 99.04%) !important;
+        width: 100%!important;
+        height: 100%!important;
+        margin: 0px!important;
+    }
+    .theme-left{
+        color: #ffffff;
+        padding-top:150px;
+    }
   
+
+
+
+    .theme-card{
+        box-sizing: border-box;
+        border-top: 1px solid white;
+        height: 100px;
+        margin-top: 100px;
+        color: #ffffff;
+        line-height: .75;
+        padding-top: 30px;
+
+
+    }
+
+    .dirlink a, .span {
+        
+        text-decoration: none;
+        color: #ffffff;
+        
+    }
+    .arrow i{
+        background-color: rgb(255, 255, 255);
+        color: rgb(251, 250, 250);
+        padding:8px 8px 6px;
+        border-radius: 30px;
+        margin-left: 10PX;
+        background-color: red;
+        transform: rotate(-37deg);}
+    
+    
+    .arrow i:hover{
+    
+        background-color:rgb(130, 1, 1);
+    }
+
+   
+
+    
+    
+   
