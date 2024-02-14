@@ -59,7 +59,59 @@
             .card-A{
                 margin-top: 20px;
             }
+
+            .section-B{
+                
+                margin-top: 20px!important;
+            }
+
+            .card-A{
+                
+                margin-top: 20px!important;
+              }
+
+            .circleline{
+                justify-content:center!important;
+              }
+          
+
+            .circlebox{
+                
+                height: 100px;
+                width: auto!important;
+                margin-bottom: 20px!important;
+                
+              }
            
     
     
+}
+
+
+
+@media only screen and (max-width:457px) {
+    .circlebox{
+      
+        height: auto!important;
+        
+        
+      }
+
+
+
+}
+
+@media only screen and (max-width:767px) {
+    .section-D{
+      
+        height: auto!important;
+      }
+
+      .mid-slider{
+       
+        padding:25px!important
+      }
+
+
+
 }

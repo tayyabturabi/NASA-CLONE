@@ -157,10 +157,96 @@ margin-top: 10px;
         color: white;
         padding: 24px;
       }
+
+      .cardbox-content a {
+        text-decoration: none;
+        color: #ffffff;
+        font-size: 12px;
+        
+      }
       
       .cardbox-4{
         margin-bottom: 20px;
       }
+
+      .section-C{
+        width: 90%;
+        margin: 0px auto!important;
+        margin-top: 70px!important;
+        
+    }
+    .circleline{
+      display: flex;
+      margin-bottom: 20px;
+      
+    }
+
+    .circlebox{
+      
+      height: 170px;
+      width: 250px;
+      display: flex;
+      align-items: center;
+      
+    }
+    .circlebox img {
+      border-radius: 50%;
+      height: 90px;
+      width: 90px;
+           
+    }
+
+    .cir-text{
+      padding-left: 10px;
+      
+    }
+
+    .cir-text span{
+      font-size: 10px;
+    }
+
+    .cir-text a {
+      text-decoration: none;
+      color: #000;
+      font-size: 12px;
+      
+    }
+
+    .section-D{
+      height: 500PX;
+      background-color: rgb(1, 15, 10);
+    }
+    .mid-slider{
+      color: #ffffff;
+      padding:50px
+    }
+
+    .section-D{
+      height: 500PX;
+      
+    }
+
+    .mid-slider2{
+      color: #000000;
+      padding:50px;
+      padding-top:100px;
+    }
+
+    .mid-frame2 img{
+      object-fit:cover!important;
+      width:100%;
+      height:100%;
+        
+     
+    }
+
+    .section-F{
+      background-image:url(/images/color-back1.webp);
+      background-size: cover;
+      height:600px;
+      margin-top: 50px;
+    }
+      
 
      
 
